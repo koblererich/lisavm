@@ -1,0 +1,22 @@
+name: lisavm
+channels:
+  - defaults
+dependencies:
+  - matplotlib
+  - scipy
+  - imageio
+  - numpy
+  - pytorch
+  - torchvision
+  - ipython
+  - seaborn
+  - ipympl
+  - notebook
+  - flake8
+  - pip
+  - pip:
+    - tensorboard
+    - torch
+    - torchvision
+    - --extra-index-url https://download.pytorch.org/whl/cu118
+    - timm
