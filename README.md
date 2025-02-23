@@ -32,11 +32,11 @@ Please consider to cite this work if you find it helpful.
 
 ```BibTex
 @article{cascarano2024variable,
-  title={A variable metric proximal stochastic gradient method: an application to classification problems},
+  title={A variable metric proximal stochastic gradient method: An application to classification problems},
   author={Cascarano, Pasquale and Franchini, Giorgia and Kobler, Erich and Porta, Federica and Sebastiani, Andrea},
   journal={EURO Journal on Computational Optimization},
-  volume={},
-  pages={},
+  volume={12},
+  pages={100088},
   year={2024},
   publisher={Elsevier}
 }
